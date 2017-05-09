@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="business" pattern="file[scopes]:src/main/java/org/synyx/scopes/*/business//*" />
+</component>
